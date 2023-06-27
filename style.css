@@ -77,7 +77,7 @@ section{
 	gap: 2rem;
 }
 .home-img img{
-	max-width: 100%;
+	max-width: 80%;
 	width: 100%;
 	height: auto;
 }
